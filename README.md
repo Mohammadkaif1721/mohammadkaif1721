@@ -64,13 +64,6 @@
 
 ---
 
-# 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammadkaif1721&theme=tokyo-night"/>
-</p>
-
----
 
 # 🏆 GitHub Trophies
 
