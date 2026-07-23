@@ -64,25 +64,6 @@
 
 ---
 
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mohammadkaif1721&theme=radical&no-frame=true&margin-w=15"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-> Enable the GitHub Action in `.github/workflows/snake.yml` to generate this image.
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Mohammadkaif1721/Mohammadkaif1721/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
 # 🚀 Featured Projects
 
 - 🤖 AI Applications
