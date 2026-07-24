@@ -20,7 +20,7 @@
 - 🌱 Learning **Python, DSA, React, Node.js, Cybersecurity**
 - 🤝 Open to **Open Source Collaboration**
 - 💬 Ask me about **Python, JavaScript, React, Git & AI**
-- ⚡ *The best way to learn is by building real projects.*
+- ⚡ *The best way to learn is by building real projects..*
 
 ---
 
